@@ -1,0 +1,11 @@
+{
+  "name": "iris",
+  "description": "IRIS — Integrated Research Intelligence System. 58 agents in two modes: Research (tech 27 + healthcare 25) for deep investigation, and Learn (6 educational agents) for adaptive teaching. Evidence-based guardrails across all domains.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rodolfo Castelo",
+    "email": "rodolfo@shoootyou.dev"
+  },
+  "homepage": "https://github.com/shoootyou/ai-toolkit/tree/main/plugins/iris",
+  "license": "MIT"
+}

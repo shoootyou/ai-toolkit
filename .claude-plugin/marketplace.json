@@ -1,0 +1,27 @@
+{
+  "name": "ai-toolkit",
+  "owner": {
+    "name": "Rodolfo Castelo",
+    "email": "rodolfo@shoootyou.dev"
+  },
+  "metadata": {
+    "description": "A curated collection of AI-powered plugins for Claude Code — research agents, automation tools, and more.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "iris",
+      "source": "./plugins/iris",
+      "description": "IRIS — Integrated Research Intelligence System. 58 agents in two modes: Research (tech 27 + healthcare 25) for deep investigation, and Learn (6 educational agents) for adaptive teaching.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rodolfo Castelo",
+        "email": "rodolfo@shoootyou.dev"
+      },
+      "homepage": "https://github.com/shoootyou/ai-toolkit/tree/main/plugins/iris",
+      "license": "MIT",
+      "keywords": ["research", "agents", "investigation", "multi-agent", "synthesis"],
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Archived/deprecated agents
+old/
+
+# Research output (generated, not tracked)
+.research/
+.research-archives/
+.requests/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Session state
+.copilot/
+
+# GitHub (except tracked directories)
+.github/*
+!.github/ISSUE_TEMPLATE/
+!.github/skills/
+!.github/agents/
+!.github/copilot-instructions.md
